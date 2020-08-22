@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-  **Node.js Project Front-End<br>**
+  **Node.js Project front-end<br>**
   https://github.com/CelsoAlmeidaLF/nodejs
   <br>*Meu principal projeto front-end com node.js*,
   Keys:
