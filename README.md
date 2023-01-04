@@ -21,11 +21,12 @@
 ## Contact Me
  
 <div align="center"> 
-
+   <a href="https://github.com/CelsoAlmeidaLF" target="_blank">
+      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>  
   <a href="https://www.linkedin.com/in/celso-de-almeida-leite-filho-66317b1a1/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-
 </div>
 
 ![Snake animation](https://github.com/CelsoAlmeidaLF/CelsoAlmeidaLF/blob/output/github-contribution-grid-snake.svg)
