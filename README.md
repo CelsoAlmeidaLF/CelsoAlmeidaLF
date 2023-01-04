@@ -1,4 +1,4 @@
-# 🔭 I’m Celso de Almeida Leite Filho
+# 🔭 I’m Celso de Almeida Leite
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
