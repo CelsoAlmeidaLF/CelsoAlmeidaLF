@@ -32,3 +32,5 @@
 </div>
 
 ![Snake animation](https://github.com/CelsoAlmeidaLF/CelsoAlmeidaLF/blob/output/github-contribution-grid-snake.svg)
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
