@@ -1,5 +1,6 @@
 # 🔭 I’m Celso de Almeida Leite
 
+ <!-- not implement
 🌱 I am very good and fast at learning programming languages, but I am very bad at learning natural languages.
 
 <div align="center">
@@ -14,7 +15,7 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   
-  <!-- not implement
+ 
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   -->
   
