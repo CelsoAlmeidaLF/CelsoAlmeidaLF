@@ -1,7 +1,5 @@
 # 🔭 I’m Celso de Almeida Leite
 
-🌱 I am very good and fast at learning programming languages, but I am very bad at learning natural languages.
-
 <div align="center">
   <a href="https://github.com/CelsoAlmeidaLF">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoAlmeidaLF&layout=compact&langs_count=7&theme=transparent"/>
